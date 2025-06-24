@@ -4,11 +4,20 @@
 - ...
 - 제목은 #을 써서...
 
+### javascript code
+```script
 ```java
 let a=10;
 function test(){
 
 }
+
+```
+
+### java code
+```java
+int num=10;
+Scanner scan=new Scanner
 ```
 
 ### 예이
